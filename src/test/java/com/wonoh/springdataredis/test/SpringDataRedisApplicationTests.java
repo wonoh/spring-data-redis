@@ -1,4 +1,4 @@
-package com.wonoh.springdataredis;
+package com.wonoh.springdataredis.test;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
